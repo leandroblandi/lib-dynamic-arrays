@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1724952073 source:c:\proyectos\practicas ayed\ayed-libreria-arrays-matrices-lblandi\ayed-tarea-3-lblandi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	"matrices.h"
+
+1724949094 c:\proyectos\practicas ayed\ayed-libreria-arrays-matrices-lblandi\ayed-tarea-3-lblandi\vectores.h
+	<stdbool.h>
+
+1724951392 source:c:\proyectos\practicas ayed\ayed-libreria-arrays-matrices-lblandi\ayed-tarea-3-lblandi\matrices.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"vectores.h"
+	"matrices.h"
+
+1724949181 source:c:\proyectos\practicas ayed\ayed-libreria-arrays-matrices-lblandi\ayed-tarea-3-lblandi\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"vectores.h"
+
+1724950788 c:\proyectos\practicas ayed\ayed-libreria-arrays-matrices-lblandi\ayed-tarea-3-lblandi\matrices.h
+
